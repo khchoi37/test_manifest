@@ -2,21 +2,22 @@
 <manifest>                                                                       
   <remote                                                                      
     name="origin"                                                            
-    fetch="ssh://git@github.com-khchoi37:khchoi37/"/>                                          
+    fetch="ssh://git@github.com-khchoi37/"
+    revision="main"/>
   <remote                                                                      
     name="html5"                                                             
-    fetch="ssh://git@github.com-khchoi37:khchoi37/"                                            
+    fetch="ssh://git@github.com-khchoi37/"                                            
     review="review.gerrithub.io"/>                                           
-  <default revision="master" remote="origin"/>                                 
+  <default revision="main" remote="origin"/>                                 
                                                                                                                             
   <project                                                                     
-    path="bash"                                                              
-    name="khchoi37/bash"/>                                                  
+    path="test/bash"                                                              
+    name="bash"/>                                                  
   <project                                                                     
-    path="c"                                                                 
-    name="khchoi37/C_Practice"/>                                            
+    path="test/c"                                                                 
+    name="c"/>                                            
   <project                                                                     
-    path="html5"                                                             
-    name="khchoi37/html5"                                                   
+    path="test/html5"                                                             
+    name="html5"                                                   
     remote="html5"/>                                                         
 </manifest>
