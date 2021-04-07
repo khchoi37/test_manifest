@@ -12,12 +12,12 @@
                                                                                                                             
   <project                                                                     
     path="test/bash"                                                              
-    name="bash"/>                                                  
+    name="khchoi37/bash"/>                                                  
   <project                                                                     
     path="test/c"                                                                 
-    name="c"/>                                            
+    name="khchoi37/c"/>                                            
   <project                                                                     
     path="test/html5"                                                             
-    name="html5"                                                   
+    name="khchoi37/tml5"                                                   
     remote="html5"/>                                                         
 </manifest>
