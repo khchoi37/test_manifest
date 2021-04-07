@@ -18,6 +18,6 @@
     name="khchoi37/c"/>                                            
   <project                                                                     
     path="test/html5"                                                             
-    name="khchoi37/tml5"                                                   
+    name="khchoi37/html5"                                                   
     remote="html5"/>                                                         
 </manifest>
