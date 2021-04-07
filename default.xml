@@ -2,10 +2,10 @@
 <manifest>                                                                       
   <remote                                                                      
     name="origin"                                                            
-    fetch="ssh://git@github.com-khchoi37/"/>                                          
+    fetch="ssh://git@github.com-khchoi37:khchoi37/"/>                                          
   <remote                                                                      
     name="html5"                                                             
-    fetch="ssh://git@github.com-khchoi37/"                                            
+    fetch="ssh://git@github.com-khchoi37:khchoi37/"                                            
     review="review.gerrithub.io"/>                                           
   <default revision="master" remote="origin"/>                                 
                                                                                                                             
